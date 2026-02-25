@@ -1,0 +1,10 @@
+# Protospace Wiki
+
+> Protospace is Calgary's community makerspace, hackerspace, and fablab. The wiki documents tools, equipment, procedures, safety protocols, and member resources. Located at 1530 27th Avenue NE, Bay 108, Calgary, Alberta, Canada. Open to the public for tours; 24/7 access for full members.
+
+- [Welcome to Protospace](https://wiki.protospace.ca/Welcome_to_Protospace): Main page with overview, location, and getting started
+- [Tools we have](https://wiki.protospace.ca/Tools_we_have): Complete list of available tools and equipment
+
+## Optional
+
+- [MediaWiki API](https://wiki.protospace.ca/api.php): Programmatic access (JSON)

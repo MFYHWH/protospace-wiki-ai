@@ -1,0 +1,6 @@
+wiki.db
+*.db
+dist/
+/protospace-wiki
+/protospace-wiki.exe
+.DS_Store

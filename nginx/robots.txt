@@ -1,0 +1,8 @@
+# wiki.protospace.ca/robots.txt
+
+User-agent: *
+Allow: /
+Disallow: /Special:
+Disallow: /api.php
+Disallow: /index.php?
+Disallow: /w/
